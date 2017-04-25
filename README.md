@@ -1,2 +1,2 @@
-# First project on Github
-opis našeg projekta..
+# First project on GitHub
+description of our project
